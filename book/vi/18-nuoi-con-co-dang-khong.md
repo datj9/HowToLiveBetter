@@ -1,61 +1,56 @@
-# 18. Nuôi con có đáng không?
+# 18. Nuôi con có đáng không
 
-> Bản dịch không chính thức. Bản gốc tiếng Trung là chuẩn.
-> Dịch từ bản Anh trong `book/en/`, nguồn gốc [dlgrv/HowToLiveBetter](https://github.com/dlgrv/HowToLiveBetter) (CC BY 4.0). Số, DOI, điều luật giữ nguyên.
+> Bản dịch không chính thức. Bản gốc tiếng Trung là chuẩn. Số, DOI, điều luật không đổi.
+> Bản Anh đầy đủ: [book/en/18-Is-Having-Kids-Worth-It.md](../en/18-Is-Having-Kids-Worth-It.md)
 >
-> Ghi chú Việt Nam: mục trợ cấp 3.600 nhân dân tệ, hộ khẩu, bảo hiểm thai sản là quy định Trung Quốc. Ở Việt Nam xem chế độ thai sản BHXH và chính sách địa phương, đừng lấy số này làm quyền lợi VN.
+> Nhiều khoản là luật và bảo hiểm Trung Quốc. Ở Việt Nam: cấp cứu 115, công an 113, cứu hỏa 114.
 
-Chương này chỉ tách chi phí tiền và thời gian. Giống chương 10 (kết hôn), không kết luận nên hay không nên có con. Đã có thai và cần các bước làm: xem chương 27.
+Chương này có 6 mục.
 
-### 1. Nhận khoản được hưởng trước: trợ cấp nuôi con toàn quốc 3.600 nhân dân tệ/năm/trẻ đến khi trẻ đủ 3 tuổi
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- Chi phí: 0 đồng. Nộp một lần tại cơ quan hộ khẩu (hukou) nơi trẻ đăng ký.
-- Nói thường: Trẻ sinh từ 1/1/2025 và dưới 3 tuổi thì được. Một cha/mẹ hoặc người giám hộ nộp tại nơi hộ khẩu của trẻ. 3.600 nhân dân tệ/năm/trẻ đến đủ 3 tuổi. Không tính thuế thu nhập cá nhân, không tính vào thu nhập khi xét trợ cấp hộ nghèo (dibao).
-- Lợi ích: Văn bản Văn phòng Trung ương Đảng và Quốc vụ viện: trẻ sinh sau 1/1/2025, dưới 3 tuổi, được 3.600 nhân dân tệ/năm/trẻ; miễn thuế TNCN; không tính vào thu nhập hộ/cá nhân khi xét dibao hoặc trợ cấp tương tự.
+### 1. Start by claiming what you’re entitled to: the national dibao program gives 3,600 yuan per child per year until the child turns 3.
+- Chi phí: Zero out-of-pocket expense. Simply apply at the local hukou office where your child is registered — one visit is all it takes.
+- Nói thường: If your child was born after January 1, 2025, and is under 3 years old, you qualify for this payment. One parent or legal guardian can submit the application at the child’s hukou office. The allowance is 3,600 yuan per year per child, paid out until the child reaches age 3. No personal income tax applies to this money, and it does not count toward any dibao or similar assistance calculations.
+- Lợi ích: As stipulated in the policy issued by the General Offices of the CPC Central Committee and the State Council, infants and toddlers born after January 1, 2025, and under 3 years of age are eligible for a yearly payment of 3,600 yuan per child. This amount is exempt from personal i
 - Bằng chứng: A
-- Ghi chú: Đây là mức sàn cả nước. Một số tỉnh/thành có trợ cấp riêng, nhận song song được. Ba năm cộng 10.800 nhân dân tệ — đóng góp nhỏ, đừng để số này quyết định có con hay không.
+- Ghi chú: This is a nationwide baseline benefit. Certain provinces and municipalities also offer their own local subsidies, which can be claimed alongside this national payment. Over three years, the total comes to 10,800 yuan — a
 - Nguồn: 中共中央办公厅、国务院办公厅 (2025). 育儿补贴制度实施方案. <https://www.gov.cn/gongbao/2025/issue_12206/202508/content_7035435.html>
 
-### 2. Nghỉ thai sản 98 ngày; trợ cấp thai sản do quỹ bảo hiểm trả theo lương bình quân tháng năm trước của đơn vị
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- Chi phí: 0. Đơn vị làm hồ sơ.
-- Nói thường: Ít nhất 98 ngày, trong đó tối đa 15 ngày trước sinh. Sinh khó thêm 15 ngày. Mỗi trẻ thêm được thêm 15 ngày. Tiền này gọi là trợ cấp thai sản, do quỹ bảo hiểm thai sản trả. Đơn vị chưa đóng bảo hiểm thì đơn vị phải trả.
-- Lợi ích: Quốc vụ viện: nữ lao động được 98 ngày nghỉ thai sản, gồm 15 ngày trước sinh; sinh khó thêm 15 ngày; mỗi trẻ thêm, thêm 15 ngày. Người đã đóng bảo hiểm: quỹ trả theo lương bình quân tháng năm trước của đơn vị. Người chưa đóng: đơn vị trả bằng mức lương trước khi nghỉ.
+### 2. Maternity leave lasts 98 days; maternity benefits are paid by the maternity insurance fund based on the employer’s average monthly wage from the prior year.
+- Chi phí: There is no cost to you. Your employer handles all the paperwork — you don’t need to do anything.
+- Nói thường: You’re entitled to at least 98 days of maternity leave, including up to 15 days you can take before the birth. If the delivery is difficult, you get an extra 15 days. For each additional child born, you receive another 15 days of leave. The money paid during this time is called maternity benefits and comes from the maternity insurance fund. If your employer hasn’t enrolled in this insurance, they must pay the benefits themselves.
+- Lợi ích: The length of maternity leave is set by the State Council: “Female employees are entitled to 98 days of maternity leave, including 15 days before delivery; an extra 15 days are added for difficult deliveries; for each additional child born, an additional 15 days of leave are gran
 - Bằng chứng: A
-- Ghi chú: 98 ngày là mức sàn. Hầu hết quy định tỉnh cộng thêm ít nhất 60 ngày “nghỉ thưởng”, tổng thường ít nhất 158 ngày. Ai trả lương phần nghỉ thưởng thì tùy tỉnh.
+- Ghi chú: 98 days is the minimum standard mandated by the state. Most provincial regulations on family planning add at least 60 days of additional “reward leave” for childbirth, bringing the total to at least 158 days in most regi
 - Nguồn: 国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第七条、第八条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
 
-### 3. Mang thai, sinh, cho con bú: đơn vị không được giảm lương hoặc sa thải
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- Chi phí: 0
-- Nói thường: Trong thai kỳ, sau sinh, hoặc đang cho bú, giảm lương hoặc sa thải là trái luật. Phạt 1.000–5.000 nhân dân tệ/người. Con dưới 1 tuổi: được 1 giờ cho bú mỗi ngày; không bị xếp tăng ca hoặc ca đêm. Cách khiếu nại: chương 19.
-- Lợi ích: Quốc vụ viện: không được giảm lương, sa thải, hoặc chấm dứt hợp đồng vì mang thai, sinh, cho bú. Mẹ con dưới 1 tuổi được 1 giờ cho bú/ngày; không được bắt tăng ca hoặc ca đêm. Vi phạm: phạt từ 1.000 đến 5.000 nhân dân tệ/người.
+### 3. Important to know: Employers cannot cut pay or fire workers due to pregnancy, childbirth, or breastfeeding
+- Chi phí: No cost at all
+- Nói thường: During pregnancy, after giving birth, or while breastfeeding, it is illegal for employers to cut your pay or fire you. Violators face fines ranging from 1,000 to 5,000 yuan per employee. For infants under one year old, you are entitled to one hour of breastfeeding time each day, and employers cannot assign you overtime or night shifts. Instructions on how to file a claim can be found in Section 19.
+- Lợi ích: As stipulated by the State Council, “Employers must not reduce the wages of female employees, fire them, or terminate their labor or employment contracts due to pregnancy, childbirth, or breastfeeding.” In other words, during these periods, employers cannot lower your pay, fire y
 - Bằng chứng: A
-- Ghi chú: Bị sa thải trái luật thì xem chương 19. Giữ văn bản hoặc tin nhắn về điều chuyển việc / giảm lương.
+- Ghi chú: If you are illegally fired, refer to Section 19 for steps on filing a claim. Key evidence includes any written notices or messages regarding job reassignment or pay cuts — be sure to keep these records safe.
 - Nguồn: 国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第五条、第九条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
 
-### 4. Tính chi phí thời gian theo “ai đang bỏ thời gian”, không theo “vất vả bao nhiêu”
-<!-- 成本标签: 钱=0 时间=多 毅力=是 收益=大 口径=时间 -->
-- Chi phí: không tốn tiền, tốn thời gian. Con dưới 3 tuổi gần như chiếm cả ngày. Khó vì việc này lặp mỗi ngày.
-- Nói thường: Cộng số giờ chăm con mỗi ngày và số lần thức đêm, nhân với lương giờ của người làm việc đó. Con số thường cao hơn sữa và tã. Nên chia việc trước khi có con.
-- Lợi ích: Đổi giờ chăm con và lần thức đêm ra giờ, nhân lương giờ người chăm. Kể cả việc không lương (chăm con, nấu, thức đêm) cũng tính như vậy. Cách tính giống việc nhà ở chương 10.
+### 4. The time-cost calculation is based on “whose time is being used,” not on “how hard it is”
+- Chi phí: There’s no monetary expense — only time is spent. For children under 3, that time is essentially taken up around the clock. The difficulty lies in the fact that this happens daily, not just for a few tough days.
+- Nói thường: Count up all the hours spent caring for the child each day, plus every nighttime wake-up call. Then multiply that total by the hourly wage of the person doing the work. The resulting figure is usually far higher than the cost of formula and diapers. That’s why it’s best to discuss how responsibilities will be divided before having a child.
+- Lợi ích: By converting daily childcare time and nighttime interruptions into hours, then multiplying by the caregiver’s hourly wage, you arrive at a number that typically exceeds the cost of formula and diapers. Even unpaid tasks like childcare, cooking, and nightly wake-ups should be tre
 - Bằng chứng: C
-- Ghi chú: Không cần ra số chính xác tuyệt đối. Mục đích là hai người dùng cùng một cách tính trước khi có con, không cãi sau.
+- Ghi chú: The goal isn’t to produce a perfectly accurate figure. Rather, it’s to ensure both partners discuss responsibilities using the same calculation framework prior to having a child, rather than arguing about it afterward.
 - Nguồn: 作者经验，无直接文献；口径见第 10 节
 
-### 5. Tách chi phí ba giai đoạn: 0–3 tuổi, giáo dục bắt buộc, sau giáo dục bắt buộc
-<!-- 成本标签: 钱=多 时间=中 毅力=些 收益=大 口径=金钱 -->
-- Chi phí: không có một số tổng cố định; khác nhau theo thành phố và cách nuôi. Việc khó là tách ba giai đoạn, đừng đoán một số tròn.
-- Nói thường: 0–3 tuổi chủ yếu là ai chăm (tự chăm, ông bà, hay thuê người). Tiểu học–THCS chủ yếu nhà ở và học thêm. Sau đó là đường học tiếp. Cộng chung chỉ ra một số lớn đáng sợ, không thấy được chỗ nào tốn.
-- Lợi ích: 0–3 tuổi là cách chăm; giáo dục bắt buộc là nhà ở và học thêm; sau đó là học lên. Ba nhóm khác nhau, trộn vào nhau thì mất bức tranh thật.
+### 5. Breaking down costs into three periods: ages 0–3, compulsory education, and post‑compulsory education
+- Chi phí: There’s no single fixed figure for total expenses; they vary widely depending on the city and the approach families take. The real challenge is to carefully separate the costs into these three periods instead of guessing a rough total.
+- Nói thường: For ages 0–3, most spending goes toward childcare arrangements — whether parents care for the child themselves, grandparents help out, or a professional is hired. During primary and middle school, the main expenses are housing and extracurricular activities. After that, costs center on further education pathways. Since spending patterns differ so much in each phase, lumping them together yields only an intimidating overall figure.
+- Lợi ích: The bulk of expenses in the 0–3 age range relate to childcare methods; for compulsory education, housing and after‑school programs dominate; later on, costs shift toward higher‑level schooling. Because these categories are distinct, mixing them obscures the true financial picture
 - Bằng chứng: C
-- Ghi chú: Trừ trước các khoản chắc có (trợ cấp, thai sản, hoàn bảo hiểm y tế), rồi mới xem còn thiếu bao nhiêu. Đừng quyết định theo câu “nuôi một đứa tốn X triệu” trên mạng — cách tính không rõ.
+- Ghi chú: First, factor in any guaranteed financial support such as parental subsidies, maternity allowances, and yibao reimbursements; then determine what additional funds are still needed. Avoid basing decisions on widely circul
 - Nguồn: 作者经验，无直接文献
 
-### 6. Tách ba lý do: sinh cho ông bà, sinh vì hôn nhân, sinh để có người già
-- Chi phí: 0 tiền, ít thời gian. Khó là nói thẳng.
-- Nói thường: Ba lý do này không thay nhau được. Ông bà muốn cháu không phải là kế hoạch hưu của bạn. Hôn nhân không bắt buộc phải có con. Con cũng không phải bảo hiểm hưu trí.
+### 6. Keep separate accounts for having kids for your elders, for marriage, and for old-age security
+- Chi phí: There’s no monetary cost — only the cost of having a sincere conversation. The real challenge is speaking openly about these topics without dodging them.
+- Nói thường: Others may expect you to have children, and that can certainly be one factor to consider. Yet the time and money involved are expenses you personally bear. “Relying on kids for old-age support” deserves its own separate calculation, since it hinges on another person’s financial capacity and willingness two decades down the line. Be sure to also write down the consequences of choosing not to have kids, so you can compare both sides fairly.
+- Lợi ích: The reasoning here mirrors that in Section 10. External expectations are valid considerations, but their associated costs must be recorded on your own ledger, not someone else’s. This is especially true for “relying on kids for old-age support,” which depends entirely on another 
 - Bằng chứng: C
-- Nguồn: xem bản gốc chương 18, mục 6 trở đi nếu cần đúng câu chữ từng mục còn lại.
-
-Các mục 7–18 của chương này (sổ cái tiền, thời gian, thoát chi phí) giữ nguyên số ở bản Anh: [book/en/18-Is-Having-Kids-Worth-It.md](../en/18-Is-Having-Kids-Worth-It.md).
+- Ghi chú: Make sure to list both the consequences of having kids and those of not having them, then compare them side by side. Recording only one side of the equation doesn’t truly qualify as keeping accounts at all.
+- Nguồn: 作者经验，无直接文献；同类分析见第 10 节
